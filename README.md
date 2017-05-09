@@ -1,2 +1,8 @@
 # learning-the-ropes
-test rep
+
+Hello m8's!
+I do bartending for a living, freelance when i can. [Newb wannabe coder :)]
+Trying to learn the ropes as i go, but seems that i have a lot to cover.
+All in all, hope to get some help from the masters.
+And with that being said i wish you alll happy coding.
+Over and out.
